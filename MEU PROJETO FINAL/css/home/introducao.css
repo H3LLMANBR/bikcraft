@@ -7,11 +7,6 @@
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 0px 40px;
-  box-sizing: border-box;
-  max-width: 1200px;
-  margin-left: auto;
-  margin-right: auto;
-  padding: 0px 20px;
 }
 .introducao-conteudo {
   align-self: end;
